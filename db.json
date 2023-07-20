@@ -1,15 +1,18 @@
 {
   "produtos": [
     { 
-      "id": 1, 
-      "descricao": "Sapato Social New York", 
-      "preco": "199.90",
-      "imagem": "produto.webp"
+      "id": 2,
+      "nome": "squirtle",
+      "evolucao": "primeira",
+      "tipo": "agua",
+      "imagem": "squirtle.png"
     },
-    {"id": 1, 
-      "descricao": "Sapato Social Vegas", 
-      "preco": "199.90",
-      "imagem": "produto.webp"
+    {
+      "id": 3,
+      "nome": "charmander",
+      "evolucao": "primeira",
+      "tipo": "fogo",
+      "imagem": "charmander.png"
     }
       
   ]
